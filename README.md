@@ -14,7 +14,7 @@ Instead, I have provided **Google Colab** links where you can access and run the
   [Open Colab Notebook](https://colab.research.google.com/drive/1qb_gPtBzxC4DIKIcUvmstPJAucFVFeYB?usp=sharing)
 
 - **HAR with Videos**:  
-  *(Link will be updated once the GitHub repository is created.)*
+  https://github.com/Mahesh-ch06/GenAI_2303A52037/blob/main/human_action_recognition.ipynb
 
 ---
 
@@ -59,11 +59,6 @@ This project focuses on recognizing human actions using deep learning techniques
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## Contact
 
